@@ -130,5 +130,5 @@ dmypy.json
 
 # Folder
 results/
-results2/
-
+Discarded/
+results_seed_42
