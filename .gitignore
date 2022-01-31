@@ -129,6 +129,5 @@ dmypy.json
 .pyre/
 
 # Folder
-results/
+results*/
 Discarded/
-results_seed_42
